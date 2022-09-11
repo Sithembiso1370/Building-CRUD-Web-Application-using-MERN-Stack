@@ -1,0 +1,21 @@
+A comprehensive step by step tutorial of building create-read-update-delete (CRUD) web application from scratch using MERN (Mongo, Express, React, Node.js) stack.
+ One of the most popular web application stack based on Node.js is MERN stack.
+ MERN is the abbreviation of MongoDB, Express.js, React.js, and Node.js, almost the same with the MEAN stack except MEAN stack using Angular and MERN stack using React. 
+This basic step by step tutorial of MERN stack is building CRUD (Create-Read-Update-Delete) web application. You can find basic CRUD tutorial of MEAN Stack here.
+
+MERN Stack: Install and Create React App **** 10//09/2022 16:00pm
+MERN Stack: Install and Configure Express.js **** 10//09/2022 16:00pm
+MERN Stack: Install and Configure Mongoose **** 10//09/2022 16:00pm
+MERN Stack: Create Mongoose.js Model **** 10//09/2022 16:00pm
+MERN Stack: Create Routes for Accessing Book Data via REST API **** 10//09/2022 16:00pm
+MERN Stack: Add React Router DOM
+MERN Stack: Add List of Book to Existing App Component
+MERN Stack: Add Create Components for Add New Book
+MERN Stack: Add Show Component for Show Book Details
+MERN Stack: Add Edit Component for Edit a Book
+MERN Stack: Run the MERN App
+MERN Stack: Conclusion
+
+MERN stack is complete Full-stack Javascript development framework that builds by the combination of the Javascript Web frameworks (Express.js and React.js) technologies, MongoDB Database, and Node.js environment. So, a MERN is short for MongoDB, Express.js, React.js, and Node.js. 
+
+React can integrate with MERN stack as the front end that can access data from Express and MongoDB by consuming RESTful API. In this scenario of MERN Stack React will accessing data from Express and MongoDB by HTTP calls as default React component. We are using the same application for Express and React that run on the same IP and PORT. Before starting the tutorial, the following tools and framework are required:
